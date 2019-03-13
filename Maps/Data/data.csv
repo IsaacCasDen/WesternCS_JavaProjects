@@ -1,0 +1,9 @@
+CITIES
+Delta,108,291,,
+Montrose,127,325,,
+Gunnison,230,314,,
+Grand Junction,64,256,,
+ROADS
+US 50,Grand Junction,Delta,43,57
+US 50,Delta,Montrose,23,30
+US 50,Montrose,Gunnison,65,76
